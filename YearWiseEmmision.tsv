@@ -1,4 +1,4 @@
-"Province or territory" "Sulphur oxides" "Nitrogen oxides" "Volatile organic compounds" Ammonia "Carbon monoxide" "Fine particulate matter"
+"Province or territory"	"Sulphur oxides" "Nitrogen oxides" "Volatile organic compounds" Ammonia "Carbon monoxide" "Fine particulate matter"
 "Newfoundland and Labrador" 2.3 2.9 3.1 0.2 4.2 1.5
 "Prince Edward Island" 0.1 0.3 0.4 0.5 0.6 0.4
 "Nova Scotia" 6.7 3.6 2.1 0.7 2.9 2
@@ -9,5 +9,5 @@ Manitoba 12.9 3 4.3 12.4 3.6 4.1
 Saskatchewan 9.1 8.5 12.1 20.7 4.6 11.5
 Alberta 25.9 34.9 32.2 28.9 18.9 38.3
 "British Columbia" 6.8 13.3 7.5 3.9 11 6
-Yukon 0.1 0.1 0.1 0.1 0.2 0.1
+"Yukon" 0.1 0.1 0.1 0.1 0.2 0.1
 "Northwest Territories and Nunavut" 1.7 3.6 0.6 0.1 0.7 0.2
